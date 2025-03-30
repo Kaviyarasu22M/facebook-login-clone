@@ -8,4 +8,4 @@ This project is a clone of the Facebook login page, built using HTML and CSS. It
 - Simple HTML and CSS structure
 
 ## Live Demo
-Check out the live demo https://fb-loginclone123.netlify.app).
+Check out the live demo (https://fb-loginclone123.netlify.app).
