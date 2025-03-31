@@ -4,7 +4,7 @@ This project is a clone of the Facebook login page
 
 ## Overview
 
-This repository contains the code for a simple Facebook login page, designed to replicate the login interface of Facebook using HTML, CSS, and JavaScript. The page includes form fields for email/phone number and password, along with a login button and links for forgotten passwords and creating a new account.
+This repository contains the code for a simple Facebook login page, designed to replicate the login interface of Facebook using HTML, CSS,. The page includes form fields for email/phone number and password, along with a login button and links for forgotten password.
 
 ## Features
 
